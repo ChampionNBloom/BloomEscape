@@ -1458,3 +1458,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-19.16.04:594][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2019.10.01-19.16.04:626][995]LogPlayLevel: Display: Destroying online subsystem :Context_33
 [2019.10.01-19.16.05:494][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-19.16.25:051][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
