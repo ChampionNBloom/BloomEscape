@@ -1,0 +1,60 @@
+Greets peeps!
+
+So, I see you decided to download my free KillerDrone MeshPack. Cool :)
+
+Included content:
+
+1  KillerDrone .blend (a Blender 3D file)
+1  KillerDrone skeletal mesh .fbx (to use in Unreal Engine - tested wih UE4 version 4.5)
+2  KillerDrone_UV .png files:
+      - 1  Clean UV Map you can paint from scratch
+      - 1  UV Map which is the texture currently on the KillerDrone
+1  KillerDrone_UV .xcf (GIMP image file) with both of the UV maps layered, so you can
+simply jump in and change the texture right away.
+
+
+- Intended use -
+
+Now, first of all:
+This is not supposed to be a "professional" character mesh with a
+"professional" texture - or professional anything, for that matter. 
+This is simply intended as a quick starter-pack-kinda-thingy you can play around with. 
+Feel absolutely free to develop and model the KillerDrone further in Blender, 
+create your own (much more awesome, of course) texture UV, 
+and whatever else you wanna do with it.
+
+Secondly: 
+I chose to create this mesh pack in order to help utter beginners have a 
+verrrrrry simple skeletal mesh to import into the Unreal Engine and test out as 
+an enemy character, alongside my tutorial on how to make a braindead enemy that follows 
+and kills the Player when it comes close enough (watch the tutorial @ youtube.com/3dstuffz ).
+The mesh is so simple, in fact, it only has one single bone 
+in it's entire empty little shell of a body, hah!
+
+Thirdly: 
+I don't see how you would ever want to, but IF you feel an extroardinary
+pull towards selling this exact mesh and texture - even though it barely took me 1 hour
+to put it together - I must admit I'll be a little disappointed in you, 
+and I thus might put a hex on you and haunt your dreams with my 2 flesh-eating 
+zombie-chicks who will devour the Life essence from your heartless soul bit by bit 
+for all eternity ... :)
+
+UNLESS, of course, you paypal $5 to   be.loka.aum@gmail.com   , then you can do whatever
+your heart desires with it. Put it in a game and sell it, haha!
+
+Lastly:
+.. well, that's it. But maybe, if you do something interesting with the mesh - either develop it
+further or put it to use in a game, then I'd be happy to see what you come up with.
+
+Remember to enjoy your life and have fun - always!
+
+
+Sincerely,
+Ben Ormstad
+be.loka.aum@gmail.com
+unrealtutorials.com
+
+- 24/10/2014
+___
+(.)(.)
+<-->
