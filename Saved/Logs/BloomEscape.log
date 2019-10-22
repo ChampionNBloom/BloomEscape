@@ -1006,3 +1006,286 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.22-18.18.57:351][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2019.10.22-18.18.57:628][474]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap51BCDBEE43542D9D395F9888682D65F0.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.22-18.18.58:389][474]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_BuiltData8E361FC24D653CAECCD58A8191A8311E.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.22-18.30.08:932][704]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2019.10.22-18.30.15:288][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.30.20:156][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.30.20:273][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-18.30.20:282][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.30.20:282][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-18.30.20:282][ 26]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 10:30:20 AM)
+[2019.10.22-18.30.20:282][ 26]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.22-18.30.20:312][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030163s)
+[2019.10.22-18.30.20:313][ 26]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-18.30.20:313][ 26]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2019.10.22-18.30.20:314][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031706s)
+[2019.10.22-18.30.20:343][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.22-18.30.20:378][ 26]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-18.30.20:391][ 26]LogInit: FAudioDevice initialized.
+[2019.10.22-18.30.20:418][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.22-18.30.20:421][ 26]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-14.30.20
+[2019.10.22-18.30.20:422][ 26]LogWorld: Bringing up level for play took: 0.003032
+[2019.10.22-18.30.20:435][ 26]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.934
+[2019.10.22-18.30.20:435][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.30.52:450][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.30.52:450][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-18.30.52:479][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-18.30.52:480][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.30.52:511][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-18.30.52:515][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.22-18.30.52:550][866]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.22-18.30.55:261][191]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2019.10.22-18.30.56:951][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.31.04:679][309]Cmd: EDIT COPY
+[2019.10.22-18.31.05:142][363]Cmd: EDIT PASTE
+[2019.10.22-18.31.39:059][373]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target3)
+[2019.10.22-18.31.41:019][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.31.41:110][613]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-18.31.41:120][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.31.41:120][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-18.31.41:120][613]PIE: New page: PIE session: FirstPersonExampleMap (Oct 22, 2019, 10:31:41 AM)
+[2019.10.22-18.31.41:120][613]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.22-18.31.41:148][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027716s)
+[2019.10.22-18.31.41:148][613]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-18.31.41:148][613]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2019.10.22-18.31.41:148][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028384s)
+[2019.10.22-18.31.41:176][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.22-18.31.41:216][613]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-18.31.41:228][613]LogInit: FAudioDevice initialized.
+[2019.10.22-18.31.41:260][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.22-18.31.41:263][613]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-14.31.41
+[2019.10.22-18.31.41:263][613]LogWorld: Bringing up level for play took: 0.002729
+[2019.10.22-18.31.41:276][613]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.222
+[2019.10.22-18.31.41:276][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.32.03:849][317]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2019.10.22-18.32.03:849][317]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2019.10.22-18.32.03:877][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.22-18.32.03:877][317]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.22-18.32.03:901][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025164s)
+[2019.10.22-18.32.03:902][317]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-18.32.03:902][317]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.10.22-18.32.03:902][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025880s)
+[2019.10.22-18.32.03:902][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.22-18.32.03:907][317]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.22-14.32.03
+[2019.10.22-18.32.03:907][317]LogWorld: Bringing up level for play took: 0.004526
+[2019.10.22-18.32.03:908][317]LogLoad: Took 0.060008 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2019.10.22-18.32.06:551][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.32.06:551][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-18.32.06:582][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-18.32.06:583][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.22-18.32.06:608][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-18.32.06:612][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.22-18.32.06:651][629]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.22-18.33.05:365][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.33.34:306][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/RedButton.RedButton
+[2019.10.22-18.33.34:308][ 52]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.33.34:772][ 52]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.33.34:786][ 52]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.33.34:815][ 52]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.33.37:262][281]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.33.38:829][425]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.33.38:829][425]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.33.38:829][425]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.33.38:829][425]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.38.51:917][544]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.38.51:929][544]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2019.10.22-18.38.51:968][545]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.38.51:997][545]LogSlate: Took 0.024001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-18.38.53:185][649]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.38.53:696][689]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.38.54:090][720]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.38.54:731][770]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.38.56:150][886]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.38.56:150][886]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.38.56:150][886]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.38.56:150][886]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.39.02:188][565]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.39.02:200][565]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.39.02:200][565]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.22-18.39.03:077][636]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.39.04:216][728]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.39.04:216][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.39.04:216][728]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.39.04:216][728]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.39.05:495][867]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.39.05:512][867]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.22-18.39.05:527][867]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.39.06:361][935]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.39.07:530][ 30]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.10.22-18.39.07:530][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.10.22-18.39.07:530][ 30]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.39.07:530][ 30]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.39.18:299][253]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.39.18:333][254]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.39.18:867][299]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.39.20:316][416]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.39.20:316][416]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.39.20:316][416]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.39.20:316][416]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.39.30:533][549]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.39.30:547][549]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.39.30:547][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_1, compiling. 
+[2019.10.22-18.39.31:578][636]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.39.32:712][728]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.39.32:712][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.39.32:712][728]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.39.32:712][728]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.39.32:752][731]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.39.32:763][731]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.39.33:346][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.39.34:706][902]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.39.34:706][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.39.34:706][902]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.39.34:706][902]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.40.02:262][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.22-18.40.02:560][ 69]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto1FE84F62646B7F4D1BD95EBA99C20E362.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.22-18.40.02:563][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.323
+[2019.10.22-18.40.02:563][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2019.10.22-18.40.02:567][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/RedButton] ([1] browsable assets)...
+[2019.10.22-18.40.02:582][ 69]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/RedButton.RedButton]
+[2019.10.22-18.40.02:582][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/RedButton]
+[2019.10.22-18.40.02:592][ 69]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/RedButton_Auto18C65D25E463D36F94A063CB214869B77.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Materials/RedButton_Auto1.uasset'
+[2019.10.22-18.40.02:593][ 69]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.10.22-18.40.21:413][203]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.21:427][203]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.21:461][204]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.40.22:215][275]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.40.23:621][397]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.40.23:621][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.40.23:621][397]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.40.23:621][397]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.40.27:439][837]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.27:458][838]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.40.28:002][888]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.40.29:504][ 20]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.40.29:504][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.40.29:504][ 20]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.40.29:504][ 20]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.40.31:347][228]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.31:368][229]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.40.31:940][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.40.33:427][409]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.40.33:427][409]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.40.33:427][409]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.40.33:427][409]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.40.51:704][553]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.51:717][553]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.40.51:736][554]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.40.52:330][610]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.40.53:800][744]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.40.53:800][744]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.40.53:800][744]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.40.53:800][744]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.41.16:244][366]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.41.16:272][368]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.41.17:113][445]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.41.18:590][576]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.41.18:590][576]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.41.18:590][576]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.41.18:590][576]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.41.37:616][772]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.41.37:629][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.22-18.41.37:663][773]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.41.38:615][853]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.41.39:780][947]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.41.39:780][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.41.39:780][947]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.41.39:780][947]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-18.41.40:474][ 25]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-18.41.40:514][ 26]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-18.41.41:036][ 72]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-18.41.42:508][198]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-18.41.42:508][198]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-18.41.42:508][198]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-18.41.42:508][198]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.00.15:098][925]LogMaterialEditor: Saving and Compiling material RedButton
+[2019.10.22-19.00.15:760][925]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.00.15:803][925]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.00.15:814][925]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.00.15:838][925]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.00.15:890][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.22-19.00.15:899][925]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.00.17:495][925]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.22-19.00.17:495][925]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.22-19.00.17:498][925]TextureStreamingBuild: Display: Compiling optional shaders took 1.607 seconds.
+[2019.10.22-19.00.17:529][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.22-19.00.19:520][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RedButton" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/RedButton.uasset" SILENT=true
+[2019.10.22-19.00.19:530][925]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/RedButton0EB7CEA844465B5013E44F9F02CC8C46.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/RedButton.uasset'
+[2019.10.22-19.02.39:358][577]LogRenderer: Reallocating scene render targets to support 1056x868 Format 10 NumSamples 1 (Frame:2868).
+[2019.10.22-19.03.48:135][543]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.22-19.04.26:449][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.10.22-19.04.26:759][ 23]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto22D61D43740BD63D349FD1EBAE420BB5C.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.22-19.04.26:762][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.361
+[2019.10.22-19.04.26:762][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2019.10.22-19.04.26:764][ 23]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Target] ([1] browsable assets)...
+[2019.10.22-19.04.26:777][ 23]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Target.BP_Target]
+[2019.10.22-19.04.26:777][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Target]
+[2019.10.22-19.04.26:795][ 23]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/BP_Target_Auto2805C94934D3BED3D391013A770920AEF.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Blueprints/BP_Target_Auto2.uasset'
+[2019.10.22-19.04.26:796][ 23]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.10.22-19.04.32:573][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Target" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Target.uasset" SILENT=true
+[2019.10.22-19.04.32:586][698]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/BP_Target592D0AC844E113D821B60A8F82360F01.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Target.uasset'
+[2019.10.22-19.12.49:162][190]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.12.49:174][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.12.49:194][191]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.12.50:183][290]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.12.51:256][392]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-19.12.51:256][392]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-19.12.51:256][392]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-19.12.51:256][392]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.12.52:948][594]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.12.52:961][594]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.12.52:964][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.12.53:771][671]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.12.54:918][784]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-19.12.54:918][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-19.12.54:918][784]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-19.12.54:918][784]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.13.06:134][123]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.13.06:162][123]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.06:174][123]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.13.06:933][198]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.13.08:121][313]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-19.13.08:121][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-19.13.08:121][313]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-19.13.08:121][313]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.13.15:850][138]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.13.15:878][138]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.15:891][138]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.13.16:669][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.13.17:868][329]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.22-19.13.17:868][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.22-19.13.17:868][329]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-19.13.17:869][329]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.13.20:678][664]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.20:694][664]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.13.20:697][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.13.20:729][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.13.20:759][664]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.20:777][664]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.22-19.13.20:807][664]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.20:824][664]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-19.13.20:921][670]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.13.21:636][738]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.13.22:851][858]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.22-19.13.22:851][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.22-19.13.22:851][858]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.22-19.13.22:851][858]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.22-19.13.25:934][227]LogMaterialEditor: Saving and Compiling material RedButton
+[2019.10.22-19.13.26:273][227]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.26:317][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.13.26:322][227]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.26:340][227]LogMaterial: Display: Missing cached shader map for material RedButton, compiling. 
+[2019.10.22-19.13.26:396][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.10.22-19.13.26:406][227]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.13.27:751][227]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.22-19.13.27:751][227]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.22-19.13.27:753][227]TextureStreamingBuild: Display: Compiling optional shaders took 1.357 seconds.
+[2019.10.22-19.13.27:781][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.22-19.13.30:069][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RedButton" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/RedButton.uasset" SILENT=true
+[2019.10.22-19.13.30:083][227]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/RedButton7A1197DC4B62B000F01FFFA5838DEE4C.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/RedButton.uasset'
+[2019.10.22-19.13.40:676][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.13.46:066][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.13.46:101][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.22-19.13.46:406][118]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMapFF9C38CB48C8733B010619BE41F0C7C6.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.22-19.13.47:550][118]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_BuiltData8CE8F0074C8446F903A544A06D3897AE.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.22-19.13.48:293][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.13.49:611][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
