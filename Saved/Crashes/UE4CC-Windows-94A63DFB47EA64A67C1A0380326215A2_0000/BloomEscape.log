@@ -1456,8 +1456,3 @@ Script Stack (0 frames):
 [2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc4710ce71 ntdll.dll!UnknownFunction []
 [2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: 
 [2019.10.24-19.22.27:793][ 19]LogStats:                SubmitErrorReport -  0.000 s
-[2019.10.24-19.22.28:547][ 19]LogStats:                    SendNewReport -  0.754 s
-[2019.10.24-19.22.28:547][ 19]LogStats:             FDebug::EnsureFailed -  1.971 s
-[2019.10.24-19.22.28:547][ 19]LogUObjectArray: Warning: Invalid object index 8126585
-[2019.10.24-19.22.37:750][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_02" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset" SILENT=true
-[2019.10.24-19.22.37:770][924]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/BP_Door_029ED897B143D2839CE0490FA17C25D80C.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset'
