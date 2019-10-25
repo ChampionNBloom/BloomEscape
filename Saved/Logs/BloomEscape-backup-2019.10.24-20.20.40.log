@@ -1,0 +1,1463 @@
+﻿Log file open, 10/24/19 13:23:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BloomEscape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262893
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:471][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.24-17.23.34:471][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.24-17.23.34:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:472][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-17.23.34:474][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:475][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-17.23.34:475][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-17.23.34:475][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-17.23.34:475][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.24-17.23.34:495][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.24-17.23.34:495][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.24-17.23.34:495][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-17.23.34:495][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-17.23.34:495][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-17.23.34:495][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-17.23.34:496][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.24-17.23.34:497][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.24-17.23.34:497][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.24-17.23.34:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Config/Windows/Engine.ini]
+[2019.10.24-17.23.34:497][  0]LogInit: Computer: NQSCGL-MSI-14
+[2019.10.24-17.23.34:497][  0]LogInit: User: nbloom
+[2019.10.24-17.23.34:497][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.24-17.23.34:497][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.24-17.23.34:497][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.24-17.23.34:497][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.24-17.23.34:497][  0]LogMemory: Process Physical Memory: 96.68 MB used, 96.68 MB peak
+[2019.10.24-17.23.34:497][  0]LogMemory: Process Virtual Memory: 88.75 MB used, 88.75 MB peak
+[2019.10.24-17.23.34:497][  0]LogMemory: Physical Memory: 6109.07 MB used,  26603.46 MB free, 32712.53 MB total
+[2019.10.24-17.23.34:497][  0]LogMemory: Virtual Memory: 4642.42 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.24-17.23.34:512][  0]LogInit: Using OS detected language (en-US).
+[2019.10.24-17.23.34:512][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.24-17.23.34:512][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.24-17.23.34:650][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.24-17.23.34:672][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.24-17.23.34:672][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.24-17.23.34:862][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.24-17.23.34:862][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.24-17.23.34:928][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.24-17.23.34:928][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.24-17.23.34:931][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.24-17.23.34:931][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.24-17.23.34:931][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.24-17.23.34:937][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.24-17.23.34:937][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.24-17.23.34:937][  0]LogWindows: EnumDisplayDevices:
+[2019.10.24-17.23.34:937][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.24-17.23.34:938][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.24-17.23.34:938][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.24-17.23.34:938][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.24-17.23.34:939][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.24-17.23.34:939][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.24-17.23.34:939][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.10.24-17.23.34:939][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.10.24-17.23.34:939][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.24-17.23.34:978][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.24-17.23.34:981][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-17.23.34:982][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-17.23.34:982][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-17.23.34:989][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.24-17.23.35:316][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.24-17.23.35:328][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.24-17.23.35:340][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.24-17.23.35:352][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.24-17.23.35:364][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.24-17.23.35:376][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.24-17.23.35:389][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.24-17.23.35:400][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.24-17.23.35:406][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.24-17.23.35:474][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.24-17.23.35:476][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.24-17.23.35:521][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.24-17.23.35:521][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.24-17.23.35:541][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.24-17.23.35:541][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.24-17.23.35:552][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.24-17.23.35:564][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.24-17.23.35:575][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.24-17.23.35:586][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.24-17.23.35:629][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.24-17.23.35:630][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.24-17.23.35:630][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.24-17.23.35:637][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.24-17.23.35:681][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Intermediate/Shaders/WorkingDirectory/8452/).
+[2019.10.24-17.23.35:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nbloom/AppData/Local/Temp/UnrealShaderWorkingDir/E9347C6146528B00CA4F909E607FE34A/'.
+[2019.10.24-17.23.35:683][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.24-17.23.35:683][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.24-17.23.35:683][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.24-17.23.36:144][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.24-17.23.36:185][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/nbloom/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.24-17.23.36:185][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nbloom/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.24-17.23.36:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.24-17.23.36:186][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.24-17.23.36:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-17.23.36:186][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.24-17.23.36:196][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.24-17.23.36:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-17.23.36:196][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.24-17.23.36:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nbloom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.24-17.23.36:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.24-17.23.36:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.24-17.23.36:227][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.24-17.23.36:227][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.24-17.23.36:228][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.24-17.23.36:312][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2019.10.24-17.23.36:584][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-17.23.36:693][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.24-17.23.36:693][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.24-17.23.36:693][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.24-17.23.36:693][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.24-17.23.36:693][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.24-17.23.36:708][  0]LogNetVersion: BloomEscape 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2914898537)
+[2019.10.24-17.23.37:038][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031882 seconds
+[2019.10.24-17.23.37:043][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.24-17.23.37:043][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.24-17.23.37:043][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.24-17.23.37:817][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.24-17.23.37:830][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.24-17.23.37:925][  0]SourceControl: Source control is disabled
+[2019.10.24-17.23.37:925][  0]SourceControl: Source control is disabled
+[2019.10.24-17.23.37:926][  0]SourceControl: Source control is disabled
+[2019.10.24-17.23.37:927][  0]SourceControl: Source control is disabled
+[2019.10.24-17.23.37:933][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-17.23.37:934][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-17.23.37:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.24-17.23.38:114][  0]LogOcInput: OculusInput pre-init called
+[2019.10.24-17.23.38:796][  0]LogEngine: Initializing Engine...
+[2019.10.24-17.23.38:797][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.24-17.23.38:798][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.24-17.23.38:967][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.24-17.23.38:983][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.24-17.23.39:019][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-17.23.39:046][  0]LogInit: FAudioDevice initialized.
+[2019.10.24-17.23.39:046][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.24-17.23.39:165][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/nbloom/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.24-17.23.39:166][  0]LogInit: Texture streaming: Enabled
+[2019.10.24-17.23.39:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.24-17.23.39:198][  0]LogInit: Transaction tracking system initialized
+[2019.10.24-17.23.39:218][  0]BlueprintLog: New page: Editor Load
+[2019.10.24-17.23.39:285][  0]LocalizationService: Localization service is disabled
+[2019.10.24-17.23.39:390][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-17.23.39:391][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-17.23.39:533][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.24-17.23.39:533][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.24-17.23.39:690][  0]SourceControl: Source control is disabled
+[2019.10.24-17.23.39:690][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.24-17.23.39:690][  0]LightingResults: New page: Lighting Build
+[2019.10.24-17.23.39:693][  0]MapCheck: New page: Map Check
+[2019.10.24-17.23.39:693][  0]LightingResults: New page: Lighting Build
+[2019.10.24-17.23.39:714][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.24-17.23.41:102][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-17.23.41:122][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.24-17.23.41:147][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.24-17.23.41:147][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.24-17.23.41:147][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2019.10.24-17.23.41:147][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.457
+[2019.10.24-17.23.41:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.23.41:398][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.23.41:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.23.41:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.23.41:415][  0]LogCollectionManager: Loaded 0 collections in 0.001427 seconds
+[2019.10.24-17.23.41:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Collections/' took 0.01s
+[2019.10.24-17.23.41:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Developers/nbloom/Collections/' took 0.01s
+[2019.10.24-17.23.41:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Collections/' took 0.00s
+[2019.10.24-17.23.41:442][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.24-17.23.41:449][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2732 classes and 659 folders.
+[2019.10.24-17.23.41:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-17.23.41:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-17.23.41:882][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-17.23.41:978][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.24-17.23.41:993][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.24-17.23.41:994][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.24-17.23.42:039][  0]LogSlate: Took 0.041523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.24-17.23.42:092][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-17.23.42:190][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-17.23.42:190][  0]LogLoad: (Engine Initialization) Total time: 9.42 seconds
+[2019.10.24-17.23.42:190][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.24-17.23.42:224][  0]LogAssetRegistry: Asset discovery search completed in 5.9353 seconds
+[2019.10.24-17.23.42:225][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.24-17.23.42:225][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.10.24-17.23.42:227][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.24-17.23.42:337][  0]LogSlate: Took 0.009072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-17.23.43:210][ 90]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-17.23.59:140][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.23.59:464][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_02.BP_Door_02
+[2019.10.24-17.23.59:682][ 27]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.24-17.24.00:403][ 27]LogSlate: Took 0.014479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.24-17.24.00:572][ 28]LogSlate: Took 0.034006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-17.25.07:875][840]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-17.25.07:883][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.25.07:883][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-17.25.07:884][840]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 9:25:07 AM)
+[2019.10.24-17.25.07:896][840]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-17.25.07:929][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032518s)
+[2019.10.24-17.25.07:929][840]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-17.25.07:930][840]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2019.10.24-17.25.07:930][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033929s)
+[2019.10.24-17.25.07:959][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.24-17.25.07:991][840]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-17.25.08:003][840]LogInit: FAudioDevice initialized.
+[2019.10.24-17.25.08:042][840]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-17.25.08:046][840]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-13.25.08
+[2019.10.24-17.25.08:046][840]LogWorld: Bringing up level for play took: 0.003006
+[2019.10.24-17.25.08:060][840]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.24-17.25.08:062][840]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.24-17.25.08:063][840]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.24-17.25.08:064][840]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.731
+[2019.10.24-17.25.08:064][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.25.25:063][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.25.25:064][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.25.25:095][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-17.25.25:095][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.25.25:132][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.25.25:149][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.10.24-17.25.25:166][847]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.24-17.25.26:359][990]LogEditorViewport: Clicking on Actor (context menu): PointLight (PointLight3)
+[2019.10.24-17.25.26:386][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.25.36:697][217]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_4)
+[2019.10.24-17.25.37:220][275]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_4)
+[2019.10.24-17.25.45:095][198]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_4)
+[2019.10.24-17.25.45:503][246]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_4)
+[2019.10.24-17.25.45:595][256]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.24-17.26.47:821][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.26.47:995][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.24-17.27.11:799][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.27.20:214][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.24-17.27.51:191][158]Cmd: EDIT COPY
+[2019.10.24-17.27.51:803][226]Cmd: EDIT PASTE
+[2019.10.24-17.28.21:253][652]Cmd: EDIT COPY
+[2019.10.24-17.28.21:568][689]Cmd: EDIT PASTE
+[2019.10.24-17.28.59:509][ 47]Cmd: EDIT COPY
+[2019.10.24-17.28.59:872][ 90]Cmd: EDIT PASTE
+[2019.10.24-17.29.32:551][899]Cmd: EDIT COPY
+[2019.10.24-17.29.33:691][ 35]Cmd: EDIT PASTE
+[2019.10.24-17.30.29:033][562]Cmd: EDIT COPY
+[2019.10.24-17.30.29:965][673]Cmd: EDIT PASTE
+[2019.10.24-17.31.17:064][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.31.23:038][959]LogEditorViewport: Clicking on Actor (LMB): ExitDoor_C (ExitDoor)
+[2019.10.24-17.31.40:252][  7]LogEditorViewport: Clicking on Actor (LMB): ExitDoor_C (ExitDoor)
+[2019.10.24-17.31.40:471][ 32]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.24-17.31.52:646][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.31.55:725][824]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.24-17.32.12:787][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.32.13:955][968]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.24-17.32.15:263][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.25:892][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.28:049][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.31:753][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.36:068][577]Cmd: EDIT COPY
+[2019.10.24-17.32.39:861][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.42:299][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.43:893][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.45:855][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.47:296][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.50:838][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.52:661][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.54:572][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.57:004][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.32.59:007][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.33.00:937][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.33.02:570][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.33.45:658][857]LogEditorViewport: Clicking on Actor (LMB): ExitDoor_C (ExitDoor)
+[2019.10.24-17.33.48:523][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.33.54:810][948]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ExitDoor.ExitDoor
+[2019.10.24-17.35.01:533][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.10.24-17.35.01:929][330]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto13652C24D41D63827280510A27086270D.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.24-17.35.01:932][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.439
+[2019.10.24-17.35.01:932][330]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2019.10.24-17.35.01:933][330]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ExitDoor] ([1] browsable assets)...
+[2019.10.24-17.35.01:947][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ExitDoor.ExitDoor]
+[2019.10.24-17.35.01:947][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ExitDoor]
+[2019.10.24-17.35.01:972][330]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor_Auto122013CB343017708A547FC848524ABBB.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Blueprints/ExitDoor_Auto1.uasset'
+[2019.10.24-17.35.01:973][330]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.10.24-17.35.03:714][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.38.29:247][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.38.29:425][730]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BadGuy.BadGuy
+[2019.10.24-17.41.08:068][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.41.09:925][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.41.09:928][ 21]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.10.24-17.42.16:574][939]LogRenderer: Reallocating scene render targets to support 1056x868 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-17.42.47:159][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.42.49:280][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.24-17.42.51:250][762]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.42.51:259][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.51:275][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.51:282][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.51:319][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.24-17.42.51:353][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.24-17.42.51:385][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.24-17.42.51:931][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.42.52:307][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.24-17.42.53:199][868]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.42.53:207][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.53:221][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.53:229][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.42.53:260][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.24-17.42.53:294][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.24-17.42.53:325][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.24-17.42.53:797][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.42.54:255][964]LogTexture: Display: Building textures: KillerDrone_UV_ (AutoDXT, 1024X1024)
+[2019.10.24-17.42.54:255][964]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.10.24-17.42.54:327][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.24-17.42.56:389][964]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.42.57:806][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.42.58:266][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.24-17.43.00:654][163]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.43.00:665][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-17.43.00:722][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-17.43.00:781][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-17.43.00:836][163]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2019.10.24-17.43.00:867][163]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Material.Material
+[2019.10.24-17.43.00:871][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.03:133][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.10.24-17.43.03:177][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.24-17.43.03:201][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.24-17.43.03:891][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.43.04:289][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.24-17.43.05:385][282]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.43.05:392][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.05:405][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.05:413][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.05:435][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.24-17.43.05:464][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.24-17.43.05:488][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.24-17.43.06:827][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.43.07:202][487]LogLinker: Warning: Can't find file '/Game/Blueprints/Material'
+[2019.10.24-17.43.07:202][487]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Material' while loading NULL.
+[2019.10.24-17.43.07:202][487]LogLinker: Warning: Can't find file '/Game/Blueprints/Material'
+[2019.10.24-17.43.07:202][487]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Material' while loading NULL.
+[2019.10.24-17.43.07:203][487]LogLinker: Warning: Can't find file '/Game/Blueprints/Material'
+[2019.10.24-17.43.07:203][487]LoadErrors: Failed to load /Game/Blueprints/Material.Material Referenced by KillerDrone
+[2019.10.24-17.43.07:203][487]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Material' while loading NULL.
+[2019.10.24-17.43.07:203][487]LogLinker: Warning: Can't find file '/Game/Blueprints/Material'
+[2019.10.24-17.43.07:203][487]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Material' while loading NULL.
+[2019.10.24-17.43.07:203][487]LogStaticMesh: Building static mesh KillerDrone...
+[2019.10.24-17.43.07:215][487]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.10.24-17.43.07:222][487]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/KillerDrone.KillerDrone
+[2019.10.24-17.43.07:250][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.24-17.43.07:252][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.08:127][487]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-17.43.08:134][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.08:148][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.08:155][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.43.08:185][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.24-17.43.08:207][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.24-17.43.08:232][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.24-17.43.10:135][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.43.32:097][299]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.33:852][483]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/ExitDoor.ExitDoor
+[2019.10.24-17.43.33:854][483]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.33:866][483]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.34:314][483]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.34:324][483]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.34:327][483]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.34:370][483]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.34:780][501]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.35:484][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.24-17.43.36:492][652]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.24-17.43.36:493][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.24-17.43.36:493][652]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.24-17.43.36:493][652]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.24-17.43.41:741][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.41:769][270]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.41:778][270]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.42:384][328]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.24-17.43.43:582][441]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.24-17.43.43:582][441]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.24-17.43.43:582][441]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.24-17.43.43:582][441]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.24-17.43.48:106][977]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.48:133][977]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.48:143][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.48:762][ 35]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.24-17.43.49:983][145]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.24-17.43.49:983][145]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.24-17.43.49:983][145]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.24-17.43.49:984][145]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.24-17.43.53:855][545]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.53:874][545]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.53:874][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.53:906][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.53:936][545]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.53:955][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.24-17.43.53:988][545]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.43.54:005][545]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-17.43.54:169][560]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.43.54:916][624]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.24-17.43.56:141][740]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.24-17.43.56:141][740]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.24-17.43.56:141][740]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.24-17.43.56:141][740]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.24-17.44.24:383][475]LogSlate: Window 'Message' being destroyed
+[2019.10.24-17.44.24:719][475]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.44.24:757][475]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.24-17.44.24:774][475]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.44.24:799][475]LogMaterial: Display: Missing cached shader map for material ExitDoor, compiling. 
+[2019.10.24-17.44.24:882][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.10.24-17.44.24:888][475]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.24-17.44.26:319][475]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.24-17.44.26:319][475]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.24-17.44.26:322][475]TextureStreamingBuild: Display: Compiling optional shaders took 1.440 seconds.
+[2019.10.24-17.44.26:371][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.24-17.44.26:376][475]LogSlate: Window 'ExitDoor' being destroyed
+[2019.10.24-17.44.26:377][475]LogSlate: Window 'ExitDoor' being destroyed
+[2019.10.24-17.44.34:785][471]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_02.BP_Door_02
+[2019.10.24-17.44.35:863][549]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.24-17.44.36:687][606]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ExitDoor.ExitDoor
+[2019.10.24-17.44.50:040][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.44.51:381][246]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.24-17.45.04:706][793]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight21)
+[2019.10.24-17.45.40:922][ 97]Cmd: EDIT COPY
+[2019.10.24-17.45.41:718][192]Cmd: EDIT PASTE
+[2019.10.24-17.46.21:040][843]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight22)
+[2019.10.24-17.46.30:707][985]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2019.10.24-17.46.33:048][261]Cmd: EDIT COPY
+[2019.10.24-17.46.33:822][353]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight24)
+[2019.10.24-17.46.40:538][147]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2019.10.24-17.46.41:652][278]Cmd: EDIT COPY
+[2019.10.24-17.46.42:324][358]Cmd: EDIT PASTE
+[2019.10.24-17.46.57:120][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.47.01:444][581]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-17.47.06:203][139]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2019.10.24-17.47.07:446][285]Cmd: EDIT COPY
+[2019.10.24-17.47.07:903][339]Cmd: EDIT PASTE
+[2019.10.24-17.47.37:249][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.47.41:210][259]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight26)
+[2019.10.24-17.47.46:949][898]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2019.10.24-17.47.52:071][475]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight25)
+[2019.10.24-17.48.03:092][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.48.05:391][ 49]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight28)
+[2019.10.24-17.48.14:445][115]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2019.10.24-17.48.15:530][242]Cmd: EDIT COPY
+[2019.10.24-17.48.15:786][272]Cmd: EDIT PASTE
+[2019.10.24-17.48.29:932][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.48.53:559][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.49.08:299][497]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight28)
+[2019.10.24-17.49.12:336][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.49.23:063][232]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2019.10.24-17.49.33:433][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.49.53:371][796]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2019.10.24-17.49.54:262][898]Cmd: EDIT COPY
+[2019.10.24-17.49.55:056][992]Cmd: EDIT PASTE
+[2019.10.24-17.50.02:902][879]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight28)
+[2019.10.24-17.50.04:398][ 55]Cmd: DELETE
+[2019.10.24-17.50.04:398][ 55]Cmd: ACTOR DELETE
+[2019.10.24-17.50.04:406][ 55]LogEditorActor: Deleted Actor: RectLight
+[2019.10.24-17.50.04:467][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.24-17.50.04:468][ 55]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.10.24-17.50.05:380][164]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2019.10.24-17.50.30:753][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.50.30:869][151]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-17.50.30:877][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.50.30:877][151]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.24-17.50.30:878][151]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2019.10.24-17.50.31:064][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.24-17.50.31:064][151]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2019.10.24-17.50.31:064][151]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 9:50:31 AM)
+[2019.10.24-17.50.31:064][151]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-17.50.31:094][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029351s)
+[2019.10.24-17.50.31:094][151]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-17.50.31:094][151]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.10.24-17.50.31:094][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030035s)
+[2019.10.24-17.50.31:129][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.24-17.50.31:162][151]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-17.50.31:175][151]LogInit: FAudioDevice initialized.
+[2019.10.24-17.50.31:203][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-17.50.31:207][151]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-13.50.31
+[2019.10.24-17.50.31:207][151]LogWorld: Bringing up level for play took: 0.003269
+[2019.10.24-17.50.31:220][151]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.475
+[2019.10.24-17.50.31:220][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.50.56:481][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.50.56:481][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.50.56:513][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-17.50.56:514][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.50.56:551][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.50.56:555][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.24-17.50.56:613][163]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.24-17.50.58:195][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.51.24:610][432]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight22)
+[2019.10.24-17.51.27:183][736]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight23)
+[2019.10.24-17.51.30:888][160]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight25)
+[2019.10.24-17.51.33:394][456]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight26)
+[2019.10.24-17.51.35:553][711]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight24)
+[2019.10.24-17.51.37:897][988]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2019.10.24-17.52.38:856][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.52.38:947][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-17.52.38:962][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.52.38:962][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-17.52.38:962][ 94]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 9:52:38 AM)
+[2019.10.24-17.52.38:962][ 94]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-17.52.38:991][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029308s)
+[2019.10.24-17.52.38:992][ 94]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-17.52.38:992][ 94]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.10.24-17.52.38:992][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030102s)
+[2019.10.24-17.52.39:027][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.24-17.52.39:060][ 94]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-17.52.39:072][ 94]LogInit: FAudioDevice initialized.
+[2019.10.24-17.52.39:104][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-17.52.39:108][ 94]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-13.52.39
+[2019.10.24-17.52.39:108][ 94]LogWorld: Bringing up level for play took: 0.003544
+[2019.10.24-17.52.39:121][ 94]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.38
+[2019.10.24-17.52.39:121][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.53.18:841][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.53.18:842][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.53.18:878][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-17.53.18:878][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-17.53.18:916][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-17.53.18:920][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.24-17.53.18:953][857]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.24-17.53.20:204][  7]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight24)
+[2019.10.24-17.53.21:990][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.53.30:207][195]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight25)
+[2019.10.24-17.53.36:199][908]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight26)
+[2019.10.24-17.53.43:510][760]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight22)
+[2019.10.24-17.53.49:502][473]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight23)
+[2019.10.24-17.53.53:364][930]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight24)
+[2019.10.24-17.54.07:255][532]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2019.10.24-17.54.14:449][373]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2019.10.24-17.54.18:112][807]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2019.10.24-17.54.36:842][  5]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2019.10.24-17.54.47:887][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.54.56:240][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.55.09:721][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.17:625][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.22:415][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.43:955][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.45:529][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.46:928][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.50:757][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.53:566][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.55:139][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.55.59:768][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.01:692][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.03:294][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.04:984][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.06:615][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.08:569][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.13:742][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.15:403][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.16:810][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.19:120][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.22:970][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.24:746][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.31:301][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.56.34:826][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.30:219][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.39:831][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.43:921][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.45:626][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.48:051][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.52:623][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.56:140][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.57.57:788][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.58.03:684][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.58.18:641][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.59.02:000][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.59.29:336][573]Cmd: EDIT COPY
+[2019.10.24-17.59.29:984][650]Cmd: EDIT PASTE
+[2019.10.24-17.59.34:660][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.59.49:556][916]Cmd: EDIT COPY
+[2019.10.24-17.59.50:121][983]Cmd: EDIT PASTE
+[2019.10.24-18.00.40:729][946]Cmd: EDIT COPY
+[2019.10.24-18.00.41:236][  6]Cmd: EDIT PASTE
+[2019.10.24-18.01.23:297][933]Cmd: EDIT COPY
+[2019.10.24-18.01.23:954][ 11]Cmd: EDIT PASTE
+[2019.10.24-18.01.48:882][863]Cmd: EDIT COPY
+[2019.10.24-18.01.49:444][930]Cmd: EDIT PASTE
+[2019.10.24-18.02.11:622][529]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target)
+[2019.10.24-18.02.13:395][739]Cmd: DELETE
+[2019.10.24-18.02.13:395][739]Cmd: ACTOR DELETE
+[2019.10.24-18.02.13:408][739]LogEditorActor: Deleted Actor: BP_Target_C
+[2019.10.24-18.02.13:454][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.24-18.02.13:455][739]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.10.24-18.02.18:114][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.02.22:185][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.02.37:809][611]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2019.10.24-18.03.06:639][ 20]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2019.10.24-18.03.07:435][112]Cmd: EDIT COPY
+[2019.10.24-18.03.07:775][152]Cmd: EDIT PASTE
+[2019.10.24-18.03.29:993][757]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight13)
+[2019.10.24-18.03.31:165][893]Cmd: EDIT COPY
+[2019.10.24-18.03.31:685][955]Cmd: EDIT PASTE
+[2019.10.24-18.04.07:884][143]Cmd: EDIT COPY
+[2019.10.24-18.04.08:322][195]Cmd: EDIT PASTE
+[2019.10.24-18.04.12:624][706]Cmd: EDIT COPY
+[2019.10.24-18.04.12:987][749]Cmd: EDIT PASTE
+[2019.10.24-18.04.33:369][184]Cmd: EDIT COPY
+[2019.10.24-18.04.33:741][228]Cmd: EDIT PASTE
+[2019.10.24-18.04.58:048][ 52]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight30)
+[2019.10.24-18.04.58:895][150]Cmd: EDIT COPY
+[2019.10.24-18.04.59:258][193]Cmd: EDIT PASTE
+[2019.10.24-18.05.22:435][932]Cmd: EDIT COPY
+[2019.10.24-18.05.22:847][981]Cmd: EDIT PASTE
+[2019.10.24-18.05.26:891][461]Cmd: EDIT COPY
+[2019.10.24-18.05.27:161][493]Cmd: EDIT PASTE
+[2019.10.24-18.05.30:921][939]Cmd: EDIT COPY
+[2019.10.24-18.05.31:261][979]Cmd: EDIT PASTE
+[2019.10.24-18.05.43:235][384]Cmd: EDIT COPY
+[2019.10.24-18.05.43:589][426]Cmd: EDIT PASTE
+[2019.10.24-18.05.52:844][453]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-18.05.54:457][641]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight35)
+[2019.10.24-18.05.55:278][735]Cmd: EDIT COPY
+[2019.10.24-18.05.55:499][761]Cmd: EDIT PASTE
+[2019.10.24-18.06.12:382][757]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight30)
+[2019.10.24-18.06.15:276][ 98]Cmd: EDIT COPY
+[2019.10.24-18.06.15:580][134]Cmd: EDIT PASTE
+[2019.10.24-18.06.24:641][212]Cmd: EDIT COPY
+[2019.10.24-18.06.24:900][242]Cmd: EDIT PASTE
+[2019.10.24-18.06.29:006][727]Cmd: EDIT COPY
+[2019.10.24-18.06.29:241][754]Cmd: EDIT PASTE
+[2019.10.24-18.06.40:418][ 75]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.10.24-18.06.41:065][149]Cmd: EDIT COPY
+[2019.10.24-18.06.41:335][181]Cmd: EDIT PASTE
+[2019.10.24-18.06.59:788][326]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.10.24-18.07.16:700][351]Cmd: EDIT COPY
+[2019.10.24-18.07.16:930][378]Cmd: EDIT PASTE
+[2019.10.24-18.07.29:098][776]Cmd: EDIT COPY
+[2019.10.24-18.07.29:780][857]Cmd: EDIT PASTE
+[2019.10.24-18.07.38:787][895]Cmd: EDIT COPY
+[2019.10.24-18.07.39:166][940]Cmd: EDIT PASTE
+[2019.10.24-18.07.46:394][768]Cmd: EDIT COPY
+[2019.10.24-18.07.46:652][798]Cmd: EDIT PASTE
+[2019.10.24-18.08.02:483][684]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight15)
+[2019.10.24-18.08.04:436][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.08.19:066][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.08.30:141][969]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_5)
+[2019.10.24-18.08.30:663][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_5)
+[2019.10.24-18.08.30:767][ 39]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.24-18.08.49:592][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.09.00:778][584]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_6)
+[2019.10.24-18.09.00:853][591]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.24-18.09.26:722][647]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.10.24-18.09.28:228][823]Cmd: EDIT COPY
+[2019.10.24-18.09.28:590][865]Cmd: EDIT PASTE
+[2019.10.24-18.09.51:965][654]Cmd: DELETE
+[2019.10.24-18.09.51:965][654]Cmd: ACTOR DELETE
+[2019.10.24-18.09.51:975][654]LogEditorActor: Deleted Actor: SpotLight
+[2019.10.24-18.09.52:018][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.24-18.09.52:019][654]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.10.24-18.10.25:239][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.10.42:626][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.11.16:111][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.11.20:096][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.11.32:162][656]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_7)
+[2019.10.24-18.11.32:240][664]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.24-18.12.06:394][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.12.08:602][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.12.34:989][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.24-18.12.35:376][ 93]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto23B879B3949F426E647E678BCD1803F66.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.24-18.12.35:379][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.425
+[2019.10.24-18.12.35:379][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2019.10.24-18.12.35:380][ 93]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ExitDoor] ([1] browsable assets)...
+[2019.10.24-18.12.35:394][ 93]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ExitDoor.ExitDoor]
+[2019.10.24-18.12.35:395][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ExitDoor]
+[2019.10.24-18.12.35:419][ 93]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor_Auto21E9B53C24E3A0530A0F3088223B319E4.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Blueprints/ExitDoor_Auto2.uasset'
+[2019.10.24-18.12.35:420][ 93]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/ExitDoor] ([1] browsable assets)...
+[2019.10.24-18.12.35:435][ 93]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/ExitDoor.ExitDoor]
+[2019.10.24-18.12.35:435][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/ExitDoor]
+[2019.10.24-18.12.35:445][ 93]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor_Auto24FC3461148CA3B2CAC5BDF96D10264BC.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Materials/ExitDoor_Auto2.uasset'
+[2019.10.24-18.12.35:446][ 93]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.10.24-18.12.37:221][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.23.17:449][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.23.51:063][554]BlueprintLog: New page: Compile ExitDoor
+[2019.10.24-18.23.51:068][554]LogBlueprint: Error: [Compiler ExitDoor] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.10.24-18.23.51:068][554]LogBlueprint: Error: [Compiler ExitDoor] Variable node  Get CubeScore  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.24-18.23.51:326][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.24-18.23.51:332][554]LogBlueprint: Warning: [Compiler ExitDoor] [3618.67] Compile of ExitDoor failed. 2 Fatal Issue(s) 0 Warning(s) [in 268 ms] (/Game/Blueprints/ExitDoor.ExitDoor)
+[2019.10.24-18.24.42:258][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.24.43:503][696]BlueprintLog: New page: Compile ExitDoor
+[2019.10.24-18.24.43:508][696]LogBlueprint: Error: [Compiler ExitDoor] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.10.24-18.24.43:508][696]LogBlueprint: Error: [Compiler ExitDoor] Variable node  Get CubeScore  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.24-18.24.43:677][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.10.24-18.24.43:683][696]LogBlueprint: Warning: [Compiler ExitDoor] [3671.02] Compile of ExitDoor failed. 2 Fatal Issue(s) 0 Warning(s) [in 179 ms] (/Game/Blueprints/ExitDoor.ExitDoor)
+[2019.10.24-18.24.52:530][703]BlueprintLog: New page: Compile ExitDoor
+[2019.10.24-18.24.52:698][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.10.24-18.25.08:582][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.25.36:826][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.10.24-18.25.37:217][879]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto326DCEA2D4FCD217BE0B612B86F962A0B.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.24-18.25.37:220][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.429
+[2019.10.24-18.25.37:220][879]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.429
+[2019.10.24-18.25.37:221][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ExitDoor] ([1] browsable assets)...
+[2019.10.24-18.25.37:236][879]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ExitDoor.ExitDoor]
+[2019.10.24-18.25.37:236][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ExitDoor]
+[2019.10.24-18.25.37:261][879]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor_Auto3A993095E49C8F9F3524BCAA1C7295DEC.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Blueprints/ExitDoor_Auto3.uasset'
+[2019.10.24-18.25.37:262][879]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.10.24-18.26.20:881][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.27.00:269][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ExitDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset" SILENT=true
+[2019.10.24-18.27.00:294][408]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor598493134165912016D3E6B6EE21C363.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset'
+[2019.10.24-18.27.01:743][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.27.14:877][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.30.27:701][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.30.27:809][297]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-18.30.27:824][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.30.27:824][297]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.24-18.30.27:825][297]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2019.10.24-18.30.28:011][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.10.24-18.30.28:011][297]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2019.10.24-18.30.28:011][297]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 10:30:28 AM)
+[2019.10.24-18.30.28:012][297]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-18.30.28:051][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039792s)
+[2019.10.24-18.30.28:052][297]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-18.30.28:052][297]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.10.24-18.30.28:052][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040574s)
+[2019.10.24-18.30.28:084][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.24-18.30.28:124][297]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-18.30.28:138][297]LogInit: FAudioDevice initialized.
+[2019.10.24-18.30.28:166][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-18.30.28:170][297]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-14.30.28
+[2019.10.24-18.30.28:170][297]LogWorld: Bringing up level for play took: 0.004103
+[2019.10.24-18.30.28:183][297]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.499
+[2019.10.24-18.30.28:183][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.31.15:122][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.31.15:122][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-18.31.15:156][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-18.31.15:157][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.31.15:197][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-18.31.15:202][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.24-18.31.15:222][910]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.24-18.31.32:991][ 39]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight14)
+[2019.10.24-18.31.33:939][149]Cmd: EDIT COPY
+[2019.10.24-18.31.34:270][188]Cmd: EDIT PASTE
+[2019.10.24-18.31.41:771][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.31.57:634][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.32.00:218][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.32.39:857][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.32.46:004][722]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2019.10.24-18.32.46:958][833]Cmd: EDIT COPY
+[2019.10.24-18.32.47:187][860]Cmd: EDIT PASTE
+[2019.10.24-18.33.02:348][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.33.12:971][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.33.37:118][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.33.46:574][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.33.52:224][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.34.06:604][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.34.11:193][879]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight16)
+[2019.10.24-18.34.15:498][389]Cmd: EDIT COPY
+[2019.10.24-18.34.15:722][415]Cmd: EDIT PASTE
+[2019.10.24-18.34.40:380][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.34.54:808][ 17]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2019.10.24-18.35.02:353][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.35.12:804][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.35.40:265][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.35.53:282][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.36.06:590][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.36.28:610][165]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target2)
+[2019.10.24-18.37.17:914][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.37.20:542][359]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight23)
+[2019.10.24-18.37.24:414][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.37.24:468][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.24-18.37.24:852][819]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto46F897527411D7D35D659E38775C129E9.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.10.24-18.37.24:855][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.425
+[2019.10.24-18.37.24:855][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2019.10.24-18.37.25:178][857]Cmd: EDIT COPY
+[2019.10.24-18.37.25:466][891]Cmd: EDIT PASTE
+[2019.10.24-18.37.33:161][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.37.40:188][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.37.55:220][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.38.13:853][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.38.23:996][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.38.28:488][370]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target7)
+[2019.10.24-18.38.29:436][481]Cmd: DELETE
+[2019.10.24-18.38.29:436][481]Cmd: ACTOR DELETE
+[2019.10.24-18.38.29:442][481]LogEditorActor: Deleted Actor: BP_Target_C
+[2019.10.24-18.38.29:478][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.10.24-18.38.29:478][481]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.10.24-18.39.08:151][112]Cmd: EDIT COPY
+[2019.10.24-18.39.08:475][150]Cmd: EDIT PASTE
+[2019.10.24-18.39.26:336][221]Cmd: EDIT COPY
+[2019.10.24-18.39.26:558][247]Cmd: EDIT PASTE
+[2019.10.24-18.39.53:373][338]Cmd: EDIT COPY
+[2019.10.24-18.39.53:603][365]Cmd: EDIT PASTE
+[2019.10.24-18.39.57:187][782]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight25)
+[2019.10.24-18.39.58:116][890]Cmd: DELETE
+[2019.10.24-18.39.58:116][890]Cmd: ACTOR DELETE
+[2019.10.24-18.39.58:125][890]LogEditorActor: Deleted Actor: RectLight
+[2019.10.24-18.39.58:164][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.24-18.39.58:164][890]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.10.24-18.40.01:117][240]Cmd: EDIT COPY
+[2019.10.24-18.40.52:795][293]Cmd: TRANSACTION UNDO
+[2019.10.24-18.40.52:795][293]LogEditorTransaction: Undo Move Actors
+[2019.10.24-18.40.57:385][830]Cmd: TRANSACTION UNDO
+[2019.10.24-18.40.57:385][830]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.24-18.41.23:722][944]Cmd: TRANSACTION UNDO
+[2019.10.24-18.41.23:722][944]LogEditorTransaction: Undo Move Actors
+[2019.10.24-18.41.24:102][979]Cmd: TRANSACTION UNDO
+[2019.10.24-18.41.24:102][979]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.24-18.41.26:095][213]Cmd: DELETE
+[2019.10.24-18.41.26:095][213]Cmd: ACTOR DELETE
+[2019.10.24-18.41.26:106][213]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-18.41.26:141][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.24-18.41.26:175][213]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2019.10.24-18.41.30:118][683]Cmd: TRANSACTION UNDO
+[2019.10.24-18.41.30:118][683]LogEditorTransaction: Undo Delete Actors
+[2019.10.24-18.41.34:895][243]Cmd: DELETE
+[2019.10.24-18.41.34:895][243]Cmd: ACTOR DELETE
+[2019.10.24-18.41.34:906][243]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-18.41.34:941][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.24-18.41.34:975][243]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.10.24-18.41.37:186][507]Cmd: TRANSACTION UNDO
+[2019.10.24-18.41.37:186][507]LogEditorTransaction: Undo Delete Actors
+[2019.10.24-18.41.46:301][539]Cmd: DELETE
+[2019.10.24-18.41.46:301][539]Cmd: ACTOR DELETE
+[2019.10.24-18.41.46:312][539]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-18.41.46:345][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.24-18.41.46:378][539]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.10.24-18.41.58:315][930]Cmd: EDIT COPY
+[2019.10.24-18.41.58:628][967]Cmd: EDIT PASTE
+[2019.10.24-18.42.06:551][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.42.09:502][242]Cmd: TRANSACTION UNDO
+[2019.10.24-18.42.09:502][242]LogEditorTransaction: Undo Edit Brush Type
+[2019.10.24-18.42.11:657][490]Cmd: TRANSACTION UNDO
+[2019.10.24-18.42.11:657][490]LogEditorTransaction: Undo Paste
+[2019.10.24-18.42.28:060][416]Cmd: EDIT COPY
+[2019.10.24-18.42.28:273][441]Cmd: EDIT PASTE
+[2019.10.24-18.42.56:848][729]Cmd: EDIT COPY
+[2019.10.24-18.42.57:441][799]Cmd: EDIT PASTE
+[2019.10.24-18.43.21:705][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.43.30:469][687]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight18)
+[2019.10.24-18.43.34:861][197]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight27)
+[2019.10.24-18.43.35:714][296]Cmd: EDIT COPY
+[2019.10.24-18.43.35:994][329]Cmd: EDIT PASTE
+[2019.10.24-18.43.41:495][971]Cmd: EDIT COPY
+[2019.10.24-18.43.41:702][995]Cmd: EDIT PASTE
+[2019.10.24-18.44.00:443][202]Cmd: EDIT COPY
+[2019.10.24-18.44.00:659][227]Cmd: EDIT PASTE
+[2019.10.24-18.44.03:605][575]Cmd: EDIT COPY
+[2019.10.24-18.44.03:830][601]Cmd: EDIT PASTE
+[2019.10.24-18.44.06:366][900]Cmd: EDIT COPY
+[2019.10.24-18.44.06:565][923]Cmd: EDIT PASTE
+[2019.10.24-18.44.14:954][923]Cmd: EDIT COPY
+[2019.10.24-18.44.15:178][949]Cmd: EDIT PASTE
+[2019.10.24-18.44.26:076][212]Cmd: EDIT COPY
+[2019.10.24-18.44.26:277][235]Cmd: EDIT PASTE
+[2019.10.24-18.44.32:055][915]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2019.10.24-18.44.32:902][ 10]Cmd: EDIT COPY
+[2019.10.24-18.44.33:092][ 32]Cmd: EDIT PASTE
+[2019.10.24-18.44.41:936][ 67]Cmd: EDIT COPY
+[2019.10.24-18.44.42:136][ 90]Cmd: EDIT PASTE
+[2019.10.24-18.44.50:647][ 94]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight13)
+[2019.10.24-18.44.51:407][182]Cmd: EDIT COPY
+[2019.10.24-18.44.51:587][203]Cmd: EDIT PASTE
+[2019.10.24-18.45.18:627][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.45.24:573][ 86]Cmd: EDIT COPY
+[2019.10.24-18.45.24:804][113]Cmd: EDIT PASTE
+[2019.10.24-18.45.32:760][ 46]Cmd: EDIT COPY
+[2019.10.24-18.45.33:072][ 83]Cmd: EDIT PASTE
+[2019.10.24-18.45.41:555][ 90]Cmd: EDIT COPY
+[2019.10.24-18.45.41:766][114]Cmd: EDIT PASTE
+[2019.10.24-18.45.58:997][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.46.02:396][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.46.17:442][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-18.46.22:568][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.46.22:651][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-18.46.22:666][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.46.22:666][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-18.46.22:666][963]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 10:46:22 AM)
+[2019.10.24-18.46.22:666][963]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-18.46.22:702][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035497s)
+[2019.10.24-18.46.22:702][963]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-18.46.22:703][963]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.10.24-18.46.22:703][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036236s)
+[2019.10.24-18.46.22:750][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.24-18.46.22:787][963]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-18.46.22:798][963]LogInit: FAudioDevice initialized.
+[2019.10.24-18.46.22:828][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-18.46.22:833][963]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-14.46.22
+[2019.10.24-18.46.22:833][963]LogWorld: Bringing up level for play took: 0.004294
+[2019.10.24-18.46.22:845][963]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.185
+[2019.10.24-18.46.22:845][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.51.53:920][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.24-18.51.53:953][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.24-18.51.54:406][661]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMapA8E1F0C3459A3BCB819B77B4D4FD9DC9.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-18.51.54:429][661]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.507
+[2019.10.24-18.51.54:429][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/ExitDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/ExitDoor.uasset" SILENT=true
+[2019.10.24-18.51.54:432][661]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor6BED656F451998487A9632AC1735133F.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Materials/ExitDoor.uasset'
+[2019.10.24-18.54.37:154][156]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.24-18.54.52:442][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-18.54.52:540][951]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.24-18.54.52:544][951]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.24-18.54.52:603][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-18.54.52:657][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-18.54.52:712][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-18.54.54:561][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.24-18.55.04:138][274]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.24-18.55.07:846][683]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.24-18.55.07:851][683]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-18.55.08:761][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.24-18.55.39:452][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.55.39:453][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-18.55.39:495][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-18.55.39:495][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-18.55.39:522][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-18.55.39:554][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.24-18.55.39:566][370]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.24-18.55.50:004][563]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ExitDoor.ExitDoor
+[2019.10.24-18.56.14:428][440]BlueprintLog: New page: Compile ExitDoor
+[2019.10.24-18.56.14:431][440]LogBlueprint: Warning: [Compiler ExitDoor] Could not find a variable named "CubeScore" in 'ExitDoor_C'.
+Make sure 'ExitDoor_C' has been compiled for  Get CubeScore
+[2019.10.24-18.56.14:431][440]LogBlueprint: Error: [Compiler ExitDoor] The property associated with  Cube Score  could not be found in '/Game/Blueprints/ExitDoor.ExitDoor_C'
+[2019.10.24-18.56.14:607][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.10.24-18.56.14:612][440]LogBlueprint: Warning: [Compiler ExitDoor] [5561.99] Compile of ExitDoor failed. 1 Fatal Issue(s) 1 Warning(s) [in 183 ms] (/Game/Blueprints/ExitDoor.ExitDoor)
+[2019.10.24-18.57.11:195][200]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-18.57.11:355][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.24-18.58.46:289][559]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonCharacterBD767A2B44C2855C79F943A5BE2A6E32.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.24-18.58.47:767][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ExitDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset" SILENT=true
+[2019.10.24-18.58.47:793][732]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoor3B39D9CF41EA66006E418EB6092F602B.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset'
+[2019.10.24-18.59.21:859][804]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_02.BP_Door_02
+[2019.10.24-19.03.50:296][838]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.24-19.04.13:923][629]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.24-19.04.29:883][513]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/NewWidgetBlueprint.NewWidgetBlueprint
+[2019.10.24-19.04.30:201][513]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.10.24-19.05.07:528][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.24-19.05.13:408][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.24-19.05.13:409][597]LogMetaData: Removing '/Game/Widgets/GoForDoor.SKEL_GoForDoor_C' ref from Metadata '/Game/Widgets/NewWidgetBlueprint_2.PackageMetaData'
+[2019.10.24-19.05.13:409][597]LogMetaData: Removing '/Game/Widgets/GoForDoor.GoForDoor_C' ref from Metadata '/Game/Widgets/NewWidgetBlueprint_2.PackageMetaData'
+[2019.10.24-19.05.13:425][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GoForDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset" SILENT=true
+[2019.10.24-19.05.13:437][597]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/GoForDoor42740DDB4249E6049BE631A7684D8955.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset'
+[2019.10.24-19.05.13:575][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.10.24-19.05.13:613][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.24-19.05.13:647][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.24-19.05.15:155][773]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/GoForDoor.GoForDoor
+[2019.10.24-19.05.46:964][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.24-19.05.47:142][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score_C' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.Score:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:142][189]LogMetaData: Removing '/Game/Widgets/Score.SKEL_Score_C' ref from Metadata '/Game/Widgets/NewWidgetBlueprint.PackageMetaData'
+[2019.10.24-19.05.47:162][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Score" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/Score.uasset" SILENT=true
+[2019.10.24-19.05.47:174][189]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ScoreB40ACF6C4707EC34D8350BA586FCF5D8.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/Score.uasset'
+[2019.10.24-19.05.47:178][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/NewWidgetBlueprint" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/NewWidgetBlueprint.uasset" SILENT=true
+[2019.10.24-19.05.47:196][189]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/NewWidgetBlueprintD60D3A8347E5361CEBF68FAEEE712143.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/NewWidgetBlueprint.uasset'
+[2019.10.24-19.07.04:765][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ExitDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset" SILENT=true
+[2019.10.24-19.07.04:789][312]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/ExitDoorBDF21B4A4B59592FC4D3D1963874323D.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/ExitDoor.uasset'
+[2019.10.24-19.07.05:796][419]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonCharacterF5D1123A4C5FAB7B0AC59CAD039CFFC2.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.24-19.07.33:596][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.24-19.07.34:005][736]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_Auto5777470DD495E3977051A92BC3848F09A.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2019.10.24-19.07.34:007][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.453
+[2019.10.24-19.07.34:008][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.453
+[2019.10.24-19.07.34:009][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/GoForDoor] ([1] browsable assets)...
+[2019.10.24-19.07.34:009][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/GoForDoor]
+[2019.10.24-19.07.34:023][736]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/GoForDoor_Auto58FE5A7DD4DD66CBF057D549B1B2B9841.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Autosaves/Game/Widgets/GoForDoor_Auto5.uasset'
+[2019.10.24-19.07.34:024][736]LogFileHelpers: Auto-saving content packages took 0.015
+[2019.10.24-19.08.01:259][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.24-19.08.05:869][545]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Score_2.Score_2
+[2019.10.24-19.08.20:704][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Score_2" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/Score_2.uasset" SILENT=true
+[2019.10.24-19.08.20:717][102]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/Score_242FBC1F347989DC4801B81AA02F3C1CC.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/Score_2.uasset'
+[2019.10.24-19.08.23:261][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GoForDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset" SILENT=true
+[2019.10.24-19.08.23:273][393]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/GoForDoor4563CE96412C7250E47AF888D00CBA8C.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset'
+[2019.10.24-19.08.29:979][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/GoForDoor" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset" SILENT=true
+[2019.10.24-19.08.29:993][ 12]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/GoForDoor6FA2D66B406D39CCCC57C6A0CA4B0990.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/GoForDoor.uasset'
+[2019.10.24-19.08.55:867][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.24-19.08.55:868][ 71]LogMetaData: Removing '/Game/Widgets/YouWin.SKEL_YouWin_C' ref from Metadata '/Game/Widgets/Score_2.PackageMetaData'
+[2019.10.24-19.08.55:868][ 71]LogMetaData: Removing '/Game/Widgets/YouWin.YouWin_C' ref from Metadata '/Game/Widgets/Score_2.PackageMetaData'
+[2019.10.24-19.08.55:885][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/YouWin" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/YouWin.uasset" SILENT=true
+[2019.10.24-19.08.55:897][ 71]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/YouWin4CE688FC424CE032B73E0D94C91EF680.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Widgets/YouWin.uasset'
+[2019.10.24-19.08.56:046][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.10.24-19.08.56:084][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.24-19.08.56:119][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.24-19.09.24:207][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.09.40:061][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.09.42:875][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.10.24-19.09.45:806][  3]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_3.BP_Door_3
+[2019.10.24-19.09.53:286][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.24-19.09.53:296][836]LogMetaData: Removing '/Game/Blueprints/YouWin.SKEL_YouWin_C' ref from Metadata '/Game/Blueprints/BP_Door_3.PackageMetaData'
+[2019.10.24-19.09.53:296][836]LogMetaData: Removing '/Game/Blueprints/YouWin.YouWin_C' ref from Metadata '/Game/Blueprints/BP_Door_3.PackageMetaData'
+[2019.10.24-19.09.53:336][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/YouWin" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/YouWin.uasset" SILENT=true
+[2019.10.24-19.09.53:358][836]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/YouWin84C5424B4CFF1199B2A576BC05A06986.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/YouWin.uasset'
+[2019.10.24-19.09.53:511][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.24-19.09.53:549][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.24-19.09.53:586][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.24-19.10.06:731][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.10.16:521][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/YouWin" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/YouWin.uasset" SILENT=true
+[2019.10.24-19.10.16:535][501]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/YouWinD669D1D04E51AB549B6246B17C380A36.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/YouWin.uasset'
+[2019.10.24-19.10.25:018][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.10.41:440][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.10.41:578][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.24-19.10.41:973][465]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap4CCF6CBA4A32420E7F7699A8D5C384F0.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-19.10.42:724][465]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_BuiltData1968E6CD48D86F06835422B39C033248.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-19.11.31:075][986]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/YouWin.YouWin
+[2019.10.24-19.17.00:435][894]BlueprintLog: New page: Compile BP_Door_02
+[2019.10.24-19.17.00:634][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.10.24-19.17.05:282][375]BlueprintLog: New page: Compile BP_Door_02
+[2019.10.24-19.17.05:473][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.10.24-19.17.09:367][799]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-19.17.09:389][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.17.09:389][799]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.24-19.17.09:396][799]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.10.24-19.17.09:618][799]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2019.10.24-19.17.09:619][799]LogBlueprint: Warning: [Compiler ExitDoor] Could not find a variable named "CubeScore" in 'ExitDoor_C'.
+Make sure 'ExitDoor_C' has been compiled for  Get CubeScore
+[2019.10.24-19.17.09:620][799]LogBlueprint: Error: [Compiler ExitDoor] The property associated with  Cube Score  could not be found in '/Game/Blueprints/ExitDoor.ExitDoor_C'
+[2019.10.24-19.17.09:621][799]LogBlueprint: Warning: [Compiler ExitDoor] [6817.03] Compile of ExitDoor failed. 1 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/Blueprints/ExitDoor.ExitDoor)
+[2019.10.24-19.17.09:764][799]LogPlayLevel: [PlayLevel] Compiling YouWin before play...
+[2019.10.24-19.17.09:914][799]LogPlayLevel: [PlayLevel] Compiling GoForDoor before play...
+[2019.10.24-19.17.10:131][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.24-19.17.10:131][799]LogPlayLevel: PlayLevel: Blueprint regeneration took 741 ms (4 blueprints)
+[2019.10.24-19.17.10:131][799]BlueprintLog: Blueprint ExitDoor failed to compile
+[2019.10.24-19.17.13:496][799]LogSlate: Window 'Message' being destroyed
+[2019.10.24-19.17.13:500][799]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 11:17:13 AM)
+[2019.10.24-19.17.13:500][799]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-19.17.13:537][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036847s)
+[2019.10.24-19.17.13:538][799]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-19.17.13:538][799]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.10.24-19.17.13:538][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037695s)
+[2019.10.24-19.17.13:580][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.24-19.17.13:613][799]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-19.17.13:625][799]LogInit: FAudioDevice initialized.
+[2019.10.24-19.17.13:652][799]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-19.17.13:657][799]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-15.17.13
+[2019.10.24-19.17.13:657][799]LogWorld: Bringing up level for play took: 0.004266
+[2019.10.24-19.17.13:671][799]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 5.047
+[2019.10.24-19.17.13:671][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.17.51:208][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.17.51:209][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.17.51:243][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-19.17.51:243][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-19.17.51:290][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-19.17.51:295][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.24-19.17.51:314][292]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.10.24-19.18.00:617][403]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight15)
+[2019.10.24-19.18.04:550][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.18.04:697][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.24-19.18.05:102][882]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMapDC483BD54C52D51DC2C5CE8FD04DA7BA.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-19.18.05:863][882]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/FirstPersonExampleMap_BuiltData9589B79542A037A13178D182236B56C3.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-19.18.10:018][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-19.20.07:177][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_02" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset" SILENT=true
+[2019.10.24-19.20.07:220][654]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/BP_Door_0252A14BD14454064F21CA6CBF3112EBFD.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset'
+[2019.10.24-19.20.09:387][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.22.23:624][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.22.25:691][956]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Target.BP_Target
+[2019.10.24-19.22.26:576][ 19]LogUObjectArray: Warning: Invalid object index 8126585
+[2019.10.24-19.22.26:576][ 19]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.24-19.22.27:762][ 19]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.186 s
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: 
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: Stack: 
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc0f84c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc0f0c6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc0f0d4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffbfc4d37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffbfb9c5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffbfb981e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc118c5984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc11ab15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc1190d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc118eaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc118e0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc3553b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc3552ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc3553d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc3552c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc4659681d USER32.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc46596212 USER32.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc3553e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff696e45d3e UE4Editor.exe!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff696e5554c UE4Editor.exe!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff696e555ca UE4Editor.exe!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff696e6316c UE4Editor.exe!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff696e65b8e UE4Editor.exe!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc455d7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: [Callstack] 0x00007ffc4710ce71 ntdll.dll!UnknownFunction []
+[2019.10.24-19.22.27:762][ 19]LogOutputDevice: Error: 
+[2019.10.24-19.22.27:793][ 19]LogStats:                SubmitErrorReport -  0.000 s
+[2019.10.24-19.22.28:547][ 19]LogStats:                    SendNewReport -  0.754 s
+[2019.10.24-19.22.28:547][ 19]LogStats:             FDebug::EnsureFailed -  1.971 s
+[2019.10.24-19.22.28:547][ 19]LogUObjectArray: Warning: Invalid object index 8126585
+[2019.10.24-19.22.37:750][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_02" FILE="../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset" SILENT=true
+[2019.10.24-19.22.37:770][924]LogSavePackage: Moving '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Saved/BP_Door_029ED897B143D2839CE0490FA17C25D80C.tmp' to '../../../../../../Users/nbloom/Documents/Unreal Projects/BloomEscape/Content/Blueprints/BP_Door_02.uasset'
